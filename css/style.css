@@ -9768,7 +9768,8 @@ textarea.form-control {
   width: 100%;
   border-radius: 0px 0px 25px 25px;
   display: block;
-  background: #b1b1b17a; }
+  /* background: #b1b1b17a; */
+  border:2px solid #e31e26;}
   .contact-section .box .icon {
     width: 100px;
     height: 100px;
